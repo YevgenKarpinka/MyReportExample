@@ -1,0 +1,26 @@
+{
+  "id": "6f9da09b-0e0e-41f5-981e-bca6f2a41038",
+  "name": "My Report example",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/shipit.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://MyReportexample.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
